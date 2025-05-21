@@ -1,10 +1,14 @@
-Company Name: Dudu Analytics
+Company Name: BradySoftware
    Services:
-   - Data engineering and pipelines
-   - Predictive ML model development
-   - Dashboards and BI consulting
-   Core Industries: Finance, Healthcare, Retail
+   - CI & CD using Jenkins
+   - Cybersecurity
+   - Good at making POC's
+   - System Integration
+   - C/C++
+   - Python programming
+   Core Industries: Automotive, Iot
    Unique Selling Points:
    - 24/7 support
-   - HIPAA-compliant pipelines
- 
+   - Knows HW 
+   - Work at a very low rate
+   - Develops fast  
